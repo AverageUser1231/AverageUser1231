@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AverageUser1231
-- 👀 I’m interested in exploting in roblox
+- 👀 I’m interested in exploting in roblox and animating
 - 🌱 I’m currently learning programming and animating
 
 
