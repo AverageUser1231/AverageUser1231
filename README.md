@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development and animating
 - I'm the Original Creator of BonOS. Anyone else trying to claim that they have created BonOS is most likely lying. BonOS is ONLY available on THIS Github page.
 - Have fun using BonOS or any other of my creations!
-- I have to admit since i dont know much abt coding i use chatgpt if i dont know smth
+-Newest Project: Nexus Multi tool
 
 
 
